@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistical learning, data viz and performance analytics.
 
 interests:
 - Biostatistics
@@ -29,10 +29,10 @@ education:
   courses:
   - course: MSc in Life Sciences Informatics (Biostatistics)
     institution: University of Patras
-    year: 2017
+    year: 2019
   - course: BSc in Applied Informatics (BA and Economics)
     institution: Patras Institute of Technology
-    year: 2012
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
