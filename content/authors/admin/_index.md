@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postgraduate Biostatistics Researcher
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Patras
+- name: University of Patras Alumni
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,7 @@ bio: My research interests include statistical learning, data viz and performanc
 interests:
 - Medical Statistics
 - Statistical Learning
+- Data Mining
 - Data Visualisation
 
 education:
@@ -68,3 +69,5 @@ user_groups:
 ---
 
 Panagiotis is a proactive, results-driven analyst with a passion for information analysis and a solid track record of developing solutions and interpretations. He is well-versed in creating information and data structures that optimize data management, capturing, delivery and quality. Proficient with R for statistical computing and graphics in predictive analytics and machine learning algorithms.
+
+He has a combined of more than three years of experience that includes both academic and private sector jobs as a researcher and data analyst / business intelligence analyst.
