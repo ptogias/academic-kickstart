@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include statistical learning, data viz and performance analytics.
 
 interests:
-- Biostatistics
 - Medical Statistics
-- Healthcare Performance Analytics
+- Statistical Learning
+- Data Visualisation
 
 education:
   courses:
