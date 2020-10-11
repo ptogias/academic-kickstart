@@ -70,4 +70,4 @@ user_groups:
 
 Panagiotis is a proactive, results-driven analyst with a passion for information analysis and a solid track record of developing solutions and interpretations. He is well-versed in creating information and data structures that optimize data management, capturing, delivery and quality. Proficient with R for statistical computing and graphics in predictive analytics and machine learning algorithms.
 
-He has a combined of more than three years of experience that includes both academic and private sector jobs as a researcher and data analyst / business intelligence analyst.
+He has a combined of more than three years professional experience that includes both academic and private sector jobs as a researcher and data analyst / business intelligence analyst.
