@@ -22,7 +22,7 @@ bio: My research interests include statistical learning, data viz and performanc
 
 interests:
 - Biostatistics
-- Medical Informatics
+- Medical Statistics
 - Healthcare Performance Analytics
 
 education:
